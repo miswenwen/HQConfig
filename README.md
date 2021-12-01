@@ -1,0 +1,2 @@
+# HQConfig
+Copyright Honeywell
